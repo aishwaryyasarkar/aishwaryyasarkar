@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Rese
 ### 🏕️ Hobbies
 - Reading books from various genres and trying to explore as many topics as I can. Check out some of my favorite books on my [website](https://aishwaryyasarkar.github.io/).
 - Playing various racquet sports.
+- Watching documentaries, especially on history and science.
   
 ### 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/aishwaryya-sarkar) | [Email](mailto:aishwarya.sarkar@outlook.com)
