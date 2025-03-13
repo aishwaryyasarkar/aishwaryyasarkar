@@ -17,5 +17,22 @@ Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Rese
 - Playing various racquet sports.
 - Watching documentaries, especially on history and science.
   
-### 📫 How to reach me:  
+### 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/aishwaryya-sarkar) | [Email](mailto:aishwarya.sarkar@outlook.com)
+
+
+#### ⚡ Fun Fact: AI wants to end my career 👽
+> ❝ You're optimizing HPC like a pro, but somehow your debugging process still involves sacrificing print statements to the gods of segmentation faults. 
+> 
+> You dream of reducing communication overhead—maybe start by not arguing with your own scripts at 3 AM. 🚀 
+> 
+>  Your GNNs are distributed, just like your sanity when debugging. You claim to love parallelism, yet your tasks are just a thousand threads of chaos with no mutex in sight. 
+> 
+>  And let’s face it, your code crashes more often than your motivation. At this point, your PhD isn’t about HPC—it’s about High Pain Computing. 💀   
+>
+>  Is your HPC career dead yet 💀 or do you want me to vectorize the insults for even faster execution? 😈 ❞
+>
+> **— ChatGPT 4o**
+
+
+
