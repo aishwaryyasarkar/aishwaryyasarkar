@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**aishwaryyasarkar/aishwaryyasarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Researcher at Iowa State University. My current research explores algorithmic and systems-level optimizations for neural networks, aiming to reduce computational and communication overhead while maintaining model accuracy. I am particularly interested in efficient data movement, parallel computing, memory management, and distributed optimization tailored for modern HPC platforms.  
 
-Here are some ideas to get you started:
+### 🔭 I'm currently
+-  **working** on accelerating neural networks on HPC systems.
+-  **learning** about Mixture of Experts (MoE) and In-context Learning.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Research Interests  
+- Graph Neural Networks (GNNs) 
+- High-Performance Computing (HPC) & Distributed Systems  
+- Deep Learning Optimizations & MoE Models  
+- Parallel Computing & Cloud AI
+
+### 🏕️ Hobbies
+- Reading books from various genres and trying to explore as many topics as I can. Check out some of my favorite books [here](https://www.goodreads.com/review/list/78134435?shelf=favorites).
+- Playing various racquet sports.
+  
+### 📫 How to reach me:  
+- [LinkedIn](https://www.linkedin.com/in/aishwaryya-sarkar) | [Website](https://aishwaryyasarkar.github.io/) | [Email](mailto:aishwarya.sarkar@outlook.com)
