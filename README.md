@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Rese
 
 ### 🔭 I'm currently
 -  **working** on accelerating neural networks on HPC systems.
--  **learning** about Mixture of Experts (MoE) and In-context Learning.  
+-  **learning** about Mixture of Experts (MoE), LLM Agents, and In-Context Learning.  
 
 ### 🚀 Research Interests  
 - Graph Neural Networks (GNNs) 
