@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Rese
 - Watching documentaries, especially on history and science.
   
 ### 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/aishwaryya-sarkar) | [Email](mailto:aishwarya.sarkar@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/aishwaryya-sarkar) | [Email](mailto:aishwarya.sarkar@outlook.com) | [Website](https://aishwaryyasarkar.github.io)
 
 
 #### ⚡ Fun Fact: AI wants to end my career 👽
