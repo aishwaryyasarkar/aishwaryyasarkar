@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Aishwarya, a Ph.D. Candidate and Computer Science Rese
 - Parallel Computing & Cloud AI
 
 ### 🏕️ Hobbies
-- Reading books from various genres and trying to explore as many topics as I can. Check out some of my favorite books on my [website](https://aishwaryyasarkar.github.io/).
+- Reading books from various genres and trying to explore as many topics as I can. Check out some of my favorite books [here](https://www.goodreads.com/review/list/78134435?shelf=favorites).
 - Playing various racquet sports.
 - Watching documentaries, especially on history and science.
   
